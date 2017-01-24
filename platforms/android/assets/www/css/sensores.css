@@ -1,0 +1,38 @@
+
+body {
+    margin: 0px;
+    padding: 20px 0;
+    font-size: 18px;
+    font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande";
+    font-weight: 300;
+}
+body.shake{
+    background-color: #800909;
+}
+.header {
+    padding: 0 10px;
+    color: #666;
+    background-color: #EEE;
+    text-align: center;
+    height: 48.4px;
+    line-height: 48.4px;
+}
+
+.footer{
+    padding: 5px;
+    font-style: italic;
+    font-size: small;
+    text-align: center;
+}
+.divReadings{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #66cc99;
+    height: 60px;
+    margin-top: 10px;
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
